@@ -13,6 +13,9 @@ hr{
 hr.light{
     border-color:#fff
 }
+hr.dark{
+    border-color:#383838
+}
 a{
     color:#ffcc00;
     -webkit-transition:all .2s;
@@ -32,13 +35,14 @@ h1,h2,h3,h4,h5,h6{
     background-color:#212529!important
 }
 .text-faded{
-    color:rgba(56, 56, 56, .7)
+    color:rgba(56, 56, 56)
 }
 section{
     padding:8rem 0
 }
 .section-heading{
-    margin-top:0
+    margin-top:0;
+    color: #383838
 }
 ::-moz-selection{
     color:#fff;
