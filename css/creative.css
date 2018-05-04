@@ -146,7 +146,7 @@ img::-moz-selection {
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
     color: #fff;
   }
-  #mainNav.navbar-shrink {
+  #mainNav.navbar-sink {
     border-bottom: 1px solid rgba(33, 37, 41, 0.1);
     background-color: #fff;
   }
@@ -169,7 +169,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/header.jpg");
+  background-image: url("../img/anete-lusina-609854-unsplash.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
