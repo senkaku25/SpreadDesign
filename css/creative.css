@@ -281,6 +281,13 @@ header.masthead p {
   }
 }
 
+.tech-bg {
+    background-image: url("../img/")
+}
+.design-bg {
+    background-image: url("../img/")
+}
+
 .text-primary {
   color: #F05F40 !important;
 }

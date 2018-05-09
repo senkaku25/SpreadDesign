@@ -191,7 +191,7 @@ header.masthead p{
     text-align:center;
     opacity:0;
     color:#fff;
-    background:rgba(240,95,64,.9);
+    background:#ffcc00;
     -webkit-transition:all .2s;
     -moz-transition:all .2s;
     transition:all .2s
@@ -228,6 +228,17 @@ header.masthead p{
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name{
         font-size:22px
     }
+}
+
+.tech-bg {
+    background-position:center center;
+    background-size: cover;
+    background-image: url("../img/techlaptop.jpg")
+}
+.design-bg {
+    background-position:center center;
+    background-size: cover;
+    background-image: url("../img/designbook.jpg")
 }
 .text-primary{
     color:#f05f40!important
