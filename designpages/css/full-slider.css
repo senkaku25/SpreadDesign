@@ -30,3 +30,14 @@
 .yellow-bg{
     background-color: #ffcc00;
 }
+
+.transparent-dark-bg {
+    background-color:rgb(56,56,56, .5)
+}
+
+strong:hover { 
+    color: #ffcc00;
+}
+mark {
+    background-color:rgb(56,56,56, .7)
+}

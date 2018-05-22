@@ -191,7 +191,7 @@ header.masthead p{
     text-align:center;
     opacity:0;
     color:#fff;
-    background:#ffcc00;
+    background:rgb(255,204,0, .8);
     -webkit-transition:all .2s;
     -moz-transition:all .2s;
     transition:all .2s
@@ -238,7 +238,7 @@ header.masthead p{
 .design-bg {
     background-position:center center;
     background-size: cover;
-    background-image: url("../img/designbook.jpg")
+    background-image: url("../img/placeholders/emile-perron-190221-unsplash.jpg")
 }
 .text-primary{
     color:#f05f40!important
