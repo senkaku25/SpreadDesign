@@ -17,13 +17,14 @@ hr.dark{
     border-color:#383838
 }
 a{
-    color:#ffcc00;
+    color:#212529;
+    font-family: "Courier New";
     -webkit-transition:all .2s;
     -moz-transition:all .2s;
     transition:all .2s
 }
 a:hover{
-    color:#ffcc00
+     color:#ffcc00;
 }
 h1,h2,h3,h4,h5,h6{
     font-family:'Open Sans','Helvetica Neue',Arial,sans-serif
@@ -38,7 +39,11 @@ h1,h2,h3,h4,h5,h6{
     color:rgba(56, 56, 56)
 }
 section{
-    padding:8rem 0
+    padding:8rem
+}
+gallery-section{
+    padding-top: 8rem
+        
 }
 .section-heading{
     margin-top:0;
@@ -62,6 +67,15 @@ img::-moz-selection{
     color:#fff;
     background:0 0
 }
+.hover11 img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover11 img:hover {
+	opacity: .5;
+}
+
 #mainNav{
     border-bottom:1px solid rgba(33,37,41,.1);
     background-color:#fff;
@@ -235,6 +249,11 @@ header.masthead p{
     background-size: cover;
     background-image: url("../img/techlaptop.jpg")
 }
+
+.myCard {
+    padding-bottom: 100px
+}
+
 .design-bg {
     background-position:center center;
     background-size: cover;
@@ -242,6 +261,13 @@ header.masthead p{
 }
 .text-primary{
     color:#f05f40!important
+}
+
+.bg-light {
+    background-color: #f8f9fa!important;
+    margin-right: -10%;
+    margin-left: -10%;
+    margin-bottom: -10%;
 }
 .btn{
     font-weight:700;

@@ -19,7 +19,7 @@ hr.light {
 }
 
 a {
-  color: #F05F40;
+  color: #212529;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -44,6 +44,12 @@ h6 {
 
 .bg-dark {
   background-color: #212529 !important;
+}
+
+.bg-light {
+    background-color: #f8f9fa!important;
+    margin-right: -10%;
+    margin-left: -10%;
 }
 
 .text-faded {
