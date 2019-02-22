@@ -1,5 +1,5 @@
 # Project: Sekkei World
-Project: Sekkei World is a design project where I can design buth the content and the way people view content. It's a currated archive of all my technical and design projects. It is one scrolling page website with links to different content pages.
+A design project where I create the content and arrange the way people view it. Sekkei World serves as a curated archive of all my technical and design projects presented as a one-page scrolling website with links to different content pages.
 
 ## Built with
 1. Start Bootstrap themes (Creative and other page templates) https://startbootstrap.com/template-categories/all/
