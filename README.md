@@ -1,15 +1,15 @@
-# Project: Sekkei World
+# Project: [Sekkei World](http://sekkeiworld.com/)
 A design project where I create the content and arrange the way people view it. Sekkei World serves as a curated archive of all my technical and design projects presented as a one-page scrolling website with links to different content pages.
 
 ## Built with
-1. Start Bootstrap themes (Creative and other page templates) https://startbootstrap.com/template-categories/all/
-2. Google Chrome Developer tools
-3. Unsplash for free 4k images https://unsplash.com/
+1. [Start Bootstrap themes](https://startbootstrap.com/template-categories/all/) (Creative and other page templates) 
+2. [Google Chrome Developer tools](https://developers.google.com/web/tools/chrome-devtools/)
+3. [Unsplash](https://unsplash.com/) (Free, open license 4k images)
 
 ## Authors
-* **Melissa Lee** - https://www.linkedin.com/in/melissa-lee-b12248110/
+* **Melissa Lee** - [LinkedIn](https://www.linkedin.com/in/melissa-lee-b12248110/)
 
 ## Acknowledgments
-* Vincent Teng - https://www.linkedin.com/in/vincent-teng/ (Taught me how to web develop)
-* Thanks CreativeTim from Start Bootstrap for uploading themes to get started on
-* Anete Lusina from Unsplash for my main background photo https://unsplash.com/@anete_lusina 
+* Vincent Teng ([LinkedIn](https://www.linkedin.com/in/vincent-teng/)) for supplying valuable web development skills
+* CreativeTim from Start Bootstrap for uploading valuable starter themes
+* [Anete Lusina from Unsplash](https://unsplash.com/@anete_lusina) for the main background photo 
